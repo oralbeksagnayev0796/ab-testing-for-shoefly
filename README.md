@@ -1,1 +1,1 @@
-# ab-testing-for-shoefly
+# A/B Testing for ShoeFly.com
